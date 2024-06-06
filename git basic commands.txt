@@ -1,6 +1,6 @@
 git init - making  empty repository 
 git add [file path / directory path] - adding the data AND Changes into data -
-git commite - comming the changes that you have made
+git commit - comming the changes that you have made
 push - adding the local data of the git to the github by the individual (metadata and data only pushed)
 Pull - if we are fetching the repo the frequent changes will be pulled 
 clone - cloning the repo form the server 
