@@ -44,3 +44,14 @@ git branch -M main
 git remote add origin https://github.com/thelite5419/gitTest.git
 git push -u origin main
 
+
+git pull origin main --allow-unrelated-histories      [use when we are connecting to the pre-existing repository] 
+when the VIM command opens 
+-> type '#'
+-> type ':wq'
+
+repeat - 
+git pull
+git add <file name of the code>
+git commit -m "[any short msg]"
+git push -u origin main
