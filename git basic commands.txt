@@ -55,3 +55,21 @@ git pull
 git add <file name of the code>
 git commit -m "[any short msg]"
 git push -u origin main
+
+-/////////////////////////////////////////////////////////////////////////////
+git branches
+
+head -> points to current working directory 
+
+git branch -> used to list the current working directory 
+git branch bug-fix ->
+git switch bug-fix -> used to swicth the branches
+git checkout -> jump from branch to branch 
+
+git merge "file name" - used to merge the [till this for not working on the same directory]
+
+
+conflict scenario -> working on same directory
+
+git merge --abort [abort the merging conflicts]
+
