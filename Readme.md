@@ -2,7 +2,7 @@
 
 ## **Table of Contents**
 
-1.  [Initializing a Repository](https://markdownlivepreview.com/#initializing-a-repository)
+1.  [Initializing a Repository](#initializing-a-repository)
 2.  [Adding Changes](https://markdownlivepreview.com/#adding-changes)
 3.  [Committing Changes](https://markdownlivepreview.com/#committing-changes)
 4.  [Pushing Changes to GitHub](https://markdownlivepreview.com/#pushing-changes-to-github)
